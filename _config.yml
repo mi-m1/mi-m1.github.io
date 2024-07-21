@@ -22,13 +22,13 @@ repository               : "mi-m1/mi-m1.github.io"
 author:
   # Biographic information
   avatar           : "profile_pic.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Maggie Mi"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in NLP"
   location         : "Earth"
   employer         : "Univerisity of Sheffield"
   uri              : # URL
-  email            : "z my last name @ sheffield.ac.uk" 
+  email            : "zmi1@ sheffield.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
