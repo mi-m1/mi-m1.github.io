@@ -51,7 +51,7 @@ The main configuration file for the site is in the base directory in [_config.ym
 
 Let's Connect!
 =====
-I'm always up for colloboration and disseminating my work. 
+I'm always up for collaboration and discussing ideas. 
 Feel free to drop me an email if you would like to chat.
 
 
