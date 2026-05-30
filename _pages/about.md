@@ -32,7 +32,7 @@ My research interests are typically concentrated on exploring semantics in LLMs,
 
 News
 ======
-* May 2026: I have just completed a 6-months internship at Epic Games, working with Lucia Specia, and Marina Fomicheva and numerous talented colleagues!
+* May 2026: I have just completed a 6-months internship at Epic Games, working with numerous talented colleagues!
 * April 2026: Our two papers have been accepted to ACL 2026!
 * March 2026: Helped to organise EACL 2026 - catch me in Morocco!
 * Nov 2025: Presenting our paper [From Input Perception to Predictive Insight: Modeling Model Blind Spots Before They Become Errors](https://aclanthology.org/2025.emnlp-main.1740/) in EMNLP 2025, reach out if you want to have a chat.
