@@ -15,7 +15,7 @@ I'm currently a PhD student in the [UKRI Centre for Doctoral Training in Speech 
  <!-- My research focuses on understanding idiom processing in large language models. Although, broadly, I'm interested in the intersection of human language processing and those in computational models. -->
 
 
-Prior to my PhD, I completed my Undergraduate degree in Linguistics from the University of Lancaster. It is there, I was introduced to the fascinating field of computational linguistics. This exposure sparked my passion for exploring 
+Prior to my PhD, I completed my undergraduate degree in Linguistics from the [Lancaster University](https://www.lancaster.ac.uk/social-sciences/linguistics-and-english-language/). It is there, I was introduced to the fascinating field of computational linguistics. This exposure sparked my passion for exploring 
 the intersection between human processing and modelling complexities of human language and cognition, which still very much shapes my research today.  
 
 <!-- how computational techniques can be applied to understand and model human language processing, a passion that continues to drive my academic pursuits. -->
