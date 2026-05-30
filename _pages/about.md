@@ -32,6 +32,11 @@ My research interests are typically concentrated on exploring semantics in LLMs,
 
 News
 ======
+* May 2026: I have just completed a 6-months internship at Epic Games, working with Lucia Specia, and Marina Fomicheva and numerous talented colleagues!
+* April 2026: Our two papers have been accepted to ACL 2026!
+* March 2026: Helped to organise EACL 2026 - catch me in Morocco!
+* Nov 2025: Presenting our paper [From Input Perception to Predictive Insight: Modeling Model Blind Spots Before They Become Errors](https://aclanthology.org/2025.emnlp-main.1740/) in EMNLP 2025, reach out if you want to have a chat.
+* July 2025: Presenting our paper [Rolling the DICE on Idiomaticity: How LLMs Fail to Grasp Context](https://aclanthology.org/2025.acl-long.362/) in ACL 2025 (Oral), see you in Vienna!
 * July 2024: I had a great time attending LxMLS 2024, learned a lot and made some amazing friends along the way!
 * June 2024: We are running the first ever multimodal task on idiomaticity. See [SemEval 2025 - Task 1](https://semeval2025-task1.github.io/) for details.
 * May 2024: Our paper "[Sign of the Times: Evaluating the use of Large Language Models for Idiomaticity Detection](https://aclanthology.org/2024.mwe-1.22.pdf)" won the Best Paper Award @ MWE 2024! Thanks to my collaborators!
